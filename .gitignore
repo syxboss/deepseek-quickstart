@@ -179,3 +179,5 @@ cython_debug/
 *.zip
 deepseek/api/milvus_docs/*
 deepseek/.DS_Store
+mcp/.DS_Store
+.DS_Store
