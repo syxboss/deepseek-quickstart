@@ -181,3 +181,6 @@ deepseek/api/milvus_docs/*
 deepseek/.DS_Store
 mcp/.DS_Store
 .DS_Store
+mcp/dev*
+a2a/*
+
